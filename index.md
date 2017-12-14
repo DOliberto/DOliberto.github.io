@@ -89,7 +89,7 @@ como a data, título e as informações do autor.
 O DOliberto, em desenvolvimento, está na versão `0.0.1`. O esquema
 abaixo resume as etapas já implementadas e quais ainda estão para
 serem desenvolvidas. Para mais detalhes, entre em contato conosco, ou
-veja nosso [GitHub](https://github.com/labFGV/DOliberto/issues/36).
+veja nosso [GitHub](https://github.com/DOliberto/DOliberto/issues/36).
 
 <img src="./images/esquema_doli.png" data-action="zoom" alt="ROADMAP DOliberto">
 
@@ -107,15 +107,12 @@ O DOliberto é uma plataforma gratuita em código aberto para a produção
 de Diários Oficiais transparentes e multiformatos.
 
 ### Quem faz o DOliberto?
-O DOliberto é um projeto do
-[LABFGV](http://labfgv.com.br/diario-oficial-liberto/), entidade
-estudantil que busca soluções inovadoras para a melhoria da gestão
-pública do país.
+O DOliberto é um [projeto de alunos universitários da
+FGV](http://labfgv.com.br/diario-oficial-liberto/). Nossa equipe
+principal é formada por estudantes de graduação e mestrado, em
+Matemática Aplicada e Direito.
 
-Nossa equipe principal é formada por estudantes de graduação e
-mestrado, em Matemática Aplicada e Direito, que fazem parte do LABFGV
-como membros ou fellows. No entanto, aceitamos contribuições externas!
-
+Contribuições externas são bem-vindas, entre em contato!
 
 ### Quanto custa utilizar o DOliberto?
 

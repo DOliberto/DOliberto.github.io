@@ -62,14 +62,14 @@ feito!
 ## Como contribuir?
 
 Todo o trabalho está disponível sob licença aberta no
-[GitHub](https://github.com/labFGV/DOliberto/).
+[GitHub](https://github.com/DOliberto/DOliberto/).
 
 As etapas e *features* a serem desenvolvidas estão organizadas em
-[issues](https://github.com/labFGV/DOliberto/issues) com diferentes
+[issues](https://github.com/DOliberto/DOliberto/issues) com diferentes
 categorias. Lá você pode participar da discussão de cada detalhe do
 projeto, na categoria que você desejar.
 
 Veja nossa
-[README](https://github.com/labFGV/DOliberto/blob/master/README.md)
+[README](https://github.com/DOliberto/DOliberto/blob/master/README.md)
 para saber como criar o ambiente de desenvolvimento e rodar um
 servidor DOli no seu próprio computador.
