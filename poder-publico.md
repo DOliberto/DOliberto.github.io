@@ -40,8 +40,8 @@ série de vantagens para a administração pública:**
 **Em regra, um município pode adotar o DOliberto sem alterações
 legislativas.** Caso haja interesse em abandonar a versão impressa,
 podem ser necessárias alterações normativas a depender da situação
-jurídica de cada município. <!--Para tais casos, separamos alguns
-modelos de decreto e projeto de lei para auxiliar o gestor
-pũblico.--> Em caso de dúvidas sobre questões legislativas, não
-hesite em [entrar em contato
+jurídica de cada município. Para tais casos, separamos [este
+modelo](https://docs.google.com/document/d/1DNGfhofBNcM4bs4gUpSqt9p_z_Z_LdWmr6K_8zpV0kU/edit?usp=sharing)
+de decreto e projeto de lei para auxiliar o gestor público. Em caso de
+dúvidas sobre questões legislativas, não hesite em [entrar em contato
 conosco!](mailto:labfgv+doliberto@gmail.com).
